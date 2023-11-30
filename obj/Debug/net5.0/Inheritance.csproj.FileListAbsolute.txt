@@ -1,0 +1,15 @@
+D:\PatikaDev\Patika_Pratikler\Inheritance\bin\Debug\net5.0\Inheritance.exe
+D:\PatikaDev\Patika_Pratikler\Inheritance\bin\Debug\net5.0\Inheritance.deps.json
+D:\PatikaDev\Patika_Pratikler\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.json
+D:\PatikaDev\Patika_Pratikler\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.dev.json
+D:\PatikaDev\Patika_Pratikler\Inheritance\bin\Debug\net5.0\Inheritance.dll
+D:\PatikaDev\Patika_Pratikler\Inheritance\bin\Debug\net5.0\Inheritance.pdb
+D:\PatikaDev\Patika_Pratikler\Inheritance\obj\Debug\net5.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\Patika_Pratikler\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfoInputs.cache
+D:\PatikaDev\Patika_Pratikler\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfo.cs
+D:\PatikaDev\Patika_Pratikler\Inheritance\obj\Debug\net5.0\Inheritance.csproj.CoreCompileInputs.cache
+D:\PatikaDev\Patika_Pratikler\Inheritance\obj\Debug\net5.0\Inheritance.dll
+D:\PatikaDev\Patika_Pratikler\Inheritance\obj\Debug\net5.0\refint\Inheritance.dll
+D:\PatikaDev\Patika_Pratikler\Inheritance\obj\Debug\net5.0\Inheritance.pdb
+D:\PatikaDev\Patika_Pratikler\Inheritance\obj\Debug\net5.0\Inheritance.genruntimeconfig.cache
+D:\PatikaDev\Patika_Pratikler\Inheritance\obj\Debug\net5.0\ref\Inheritance.dll
